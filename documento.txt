@@ -1,0 +1,2 @@
+<?php echo "Aula Git" ?>
+Editanto o arquivo documento.txt
